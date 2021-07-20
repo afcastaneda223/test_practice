@@ -1,0 +1,23 @@
+{
+"scripts": {
+"test": "jest"
+},
+"name": "test_practice",
+"description": "",
+"version": "1.0.0",
+"main": "main.js",
+"repository": {
+"type": "git",
+"url": "git+https://github.com/afcastaneda223/test_practice.git"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/afcastaneda223/test_practice/issues"
+},
+"homepage": "https://github.com/afcastaneda223/test_practice#readme",
+"devDependencies": {
+"jest": "^27.0.6"
+}
+}
